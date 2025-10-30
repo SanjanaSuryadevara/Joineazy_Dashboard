@@ -64,14 +64,5 @@ src/
   - `Aarav Sharma` (student)
 - Two sample assignments are included at first run.
 
-## Notes
-- Authentication/authorization is **not** implemented (by design per spec). Use the **user switcher** to view each role.
-- For a real app, replace `DataContext` with API calls and add auth.
-
-## Submission Checklist
-- [ ] Push this project to a public GitHub repo.
-- [ ] Deploy to Netlify/Vercel and add the URL to your submission PDF.
-- [ ] Record a short walkthrough video (2–4 min) and include the link in the PDF.
-- [ ] Update this README with your links.
 ```
 
